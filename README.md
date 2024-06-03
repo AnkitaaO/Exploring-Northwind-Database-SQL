@@ -1,10 +1,10 @@
-### Exploring-Northwind-Database-SQL
+# Exploring-Northwind-Database-SQL
 This project involves exploring and analyzing the Northwind database using SQL. The Northwind database is a sample database provided by Microsoft, which is used to demonstrate various features of their SQL Server. It contains data related to a fictitious company called "Northwind Traders," which imports and exports specialty foods from around the world.
 
-# Introduction
+### Introduction
 The Northwind database is a widely used sample database for learning and practicing SQL. It contains a variety of tables including Customers, Orders, Employees, Products, and more. This project aims to explore these tables, perform data analysis, and extract meaningful insights using SQL queries.
 
-# Dataset
+### Dataset
 The Northwind database consists of the following key tables:
 
 Customers: Information about customers including contact details and location.
@@ -16,7 +16,7 @@ Categories: Categories of products.
 Order Details: Line items for each order.
 Shippers: Information about shipping companies.
 
-# Installation
+### Installation
 To set up the Northwind database, you can follow these steps:
 
 SQL Server Setup:
